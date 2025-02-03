@@ -1,5 +1,3 @@
-**Driver's Drowsiness Detection**
-
 **Demo Image**
 
 ![image](https://github.com/user-attachments/assets/5a999b74-c82b-4300-baca-5e3b1255e466)
